@@ -75,9 +75,6 @@ The logistic regression model is evaluated using:
 
 For queries or suggestions:
 - Email: vaibhavdesai682@gmail.com
-- GitHub: [9370a016a](https://github.com/9370a016a)
-- LinkedIn: [vaibhav-desai](https://linkedin.com/in/vaibhav-desai)
 
----
 
 ⭐️ If you find this useful, consider giving it a star!
